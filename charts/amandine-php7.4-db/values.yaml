@@ -1,10 +1,10 @@
-NameSpace: mycloud
-AppName: amandine-php74-db
+NameSpace: karned
+AppName: cuisine-db
 
 MariadbReplicas: 1
 MariadbImageTag: latest
 MariadbDiskSize: 5Gi
 MariadbServerId: 2
-MariadbDbName: mydatabase
-MariadbDbUser: username
+MariadbDbName: DB_75j4na2lk
+MariadbDbUser: 75j4na2lk
 MariadbDbPort: 3306
